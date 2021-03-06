@@ -1,4 +1,3 @@
-# Unity-Eklentileri
 # Unity Standart Shader Kamera Scripti
 
 ## Özellikler 
